@@ -29,7 +29,7 @@ React Native component for creating circular slider. This is a simplified versio
 Import Circular Slider
 
 ```js
-import CircularSlider from 'react-native-circular-slider';
+import CircularSlider from 'react-native-circular-slider'
 ```
 
 Use as follows:
