@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/bgryszko/react-native-circular-slider",
   "dependencies": {
-    "react-native-svg": "^5.1.5"
+    "react-native-svg": "^9.4.0"
   },
   "peerDependencies": {
     "react-native": ">=0.40.0",

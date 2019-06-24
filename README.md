@@ -65,8 +65,7 @@ You can configure the passing by following props:
 
 ## Author
 
-Bartosz Gryszko (b@gryszko.com)
-For new components and updates [follow Bartosz Gryszko on twitter](https://twitter.com/bartgryszko).
+Bartosz Gryszko (b@gryszko.com). For new components and updates [follow Bartosz Gryszko on Twitter](https://twitter.com/bartgryszko).
 
 ## License
 
