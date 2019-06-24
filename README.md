@@ -16,7 +16,7 @@ React Native component for creating circular slider. This is a simplified versio
 1. Install library and react-native-svg
 
 	```
-	npm install EarthPeople/react-native-circular-slider#v2.0.0 react-native-svg
+	npm install EarthPeople/react-native-circular-slider#v2.0.1 react-native-svg
 	```
 2. Link native code for SVG
 
