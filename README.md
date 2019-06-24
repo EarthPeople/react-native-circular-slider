@@ -11,12 +11,12 @@ React Native component for creating circular slider. This is a simplified versio
 * Remove unused code such as ClockFace
 * Use StandardJS
 
-## Installation of original component
+## Installation
 
 1. Install library and react-native-svg
 
 	```
-	npm i --save react-native-circular-slider react-native-svg
+	npm install EarthPeople/react-native-circular-slider#v2.0.0 react-native-svg
 	```
 2. Link native code for SVG
 
