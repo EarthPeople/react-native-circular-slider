@@ -77,7 +77,7 @@ export default class CircularSlider extends PureComponent {
       }
     })
 
-   /**
+    /**
     * Handles touch events on start handle
     */
     this._endPanResponder = PanResponder.create({
@@ -238,14 +238,14 @@ export default class CircularSlider extends PureComponent {
             <G transform={`translate(${stop.toX}, ${stop.toY})`}
               onPressIn={() => this.setState({ angleLength: angleLength + Math.PI / 2 })}
               {...this._endPanResponder.panHandlers} >
-              { startIcon }
+              { stopIcon }
             </G>
 
             {/* Icon at the start of slider */}
             <G transform={`translate(${start.fromX}, ${start.fromY})`}
               onPressIn={() => this.setState({ startAngle: startAngle - Math.PI / 2, angleLength: angleLength + Math.PI / 2 })}
               {...this._startPanResponder.panHandlers} >
-              { stopIcon }
+              { startIcon }
             </G>
 
           </G>
